@@ -1,5 +1,5 @@
 # hello-world
-just a hello world repository
+just a github repository
 
 Hello, I am Sandy. I am here, in ShangHai.
 I work as a Front-End developer.
